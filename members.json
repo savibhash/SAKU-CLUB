@@ -1,0 +1,20 @@
+[
+  {
+    "username": "001_THE SUPREME",
+    "role": "FOUNDER",
+    "passwordHash": "$2a$10$...",
+    "joinedAt": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "username": "002",
+    "role": "CO-FOUNDER",
+    "passwordHash": "$2a$10$...",
+    "joinedAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "username": "003",
+    "role": "SHADOW OPERATOR",
+    "passwordHash": "$2b$10$UBUxrzYmGoVuYiyrX73RCe7mI65LMwoWnAIiTuB4FqVigEzhPmwCW",
+    "joinedAt": "28/8/2026"
+  }
+]
